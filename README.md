@@ -1,7 +1,4 @@
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=⭐+Black+Star;Fashion+Marketplace+Platform" alt="Typing SVG" />
 
 ### 🛍️ Connecting Clients · Factories · Models
 
